@@ -59,16 +59,14 @@ li {
 	position:relative;
 	margin: auto;
 	width: 15em;
-	top:100px;
-	bottom:100px;
-	left:100px;
-	right:100px;
+	top:0px;
+	left:0px;
 
 }
 
 #searchbar {
 	margin: auto;
-	padding-top: 10px;
+	padding-top: 100px;
 }
 
 input {
@@ -119,4 +117,5 @@ input {
 
 #bottomRight {
 	margin-right: 27px;
+	float:right;
 }
